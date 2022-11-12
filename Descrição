@@ -1,0 +1,53 @@
+última função adicionada, fatX ( na 2ª função) apresenta a fatoração em números primos do número no visor de baixo (é o principal)
+não fiz Help (ajuda) ainda está em desenvolvimento,...
+= (igual) tbm calcula expressao mais a direita separada por um espaço
+a/b descobre a fração geratriz (dois tipos), de numeros decimais
+Rom converte para número Romanos e vic-versa
+R2( escreva raiz quadrada (para montar expressões )
+Tri calcula lado de Triangulo retângulo (se forneceer 2 lados)
+teclas com Letra X são instantâneas
+equações (expressões) podem ser escrita com parênteses
+= (igual) na primeira vez calcula expressão
+na segunda vez arredonda para mais se tiver mais de 9 noves
+ou pra menos se tiver mais de 9 zeros
+exemplo:
+2 raiz quadrada e depois x² não vai dar 2 exato, tecle = para arrendamento automaticamente
+Tri - - >> TriLabc(
+forneça Lados a, b, c, 
+a e b catetos e c = hipotenusa
+ao fornecer um lado faltante com 0 (zero)
+será calculado o lado faltando
+os parenteses com uma tecla, são contados, não fecha sem abrir, use 2ª função para mudar tecla para fechar ou abrir, etc...
+A tecla de 2a função, muda várias teclas em outras funções , inclusive . (ponto) Pra , (virgula)
+. Normal para números
+, Para separar números
+Uso a vírgula para a tecla do Pi que muda para TriLabc(
+Para calcular lados de triângulos
+Abrir e fechar parênteses ( )
+Fica na mesma tecla e conta quantas vezes abriu e não deixa fechar mais do que abriu
+Eu fiz vários truques na calculadora, 
+Por exemplo:
+Se um cálculo não ficar exato por exemplo
+1.9999999999
+Devia ser 2
+Basta tocar no botão de = 
+Pra fazer o arredondamento 
+Se o número tbm tiver mais de 9 zeros seguidos , tbm arredonda pra menos
+5.0000000000008
+Com =
+Vira 5.0
+A tecla a/b
+Cria duas frações
+A partir de um número com decimais
+A tecla de 2a função, muda várias teclas em outras funções , inclusive . Pra , 
+. Normal para números
+, Para separar números
+Uso a vírgula para a tecla do Pi que muda para
+TriLabc(
+Para calcular lados de triângulos
+Abrir e fechar parênteses ( )
+Fica na mesma tecla e conta quantas vezes abriu e não deixa fechar mais do que abriu
+area de cima (primeira) representa a base do Historico que vai subindo ao usar tecla de igual 
+se tocar na area do historico , ele desce (copia) para segunda janela (de calculo)
+mr (memory recal) fica verde se tiver algo positivo na memoria e rosa para negativo
+botao grau muda para rad para funçoes trigonometricas, com graus ou radianos, respectivamente
